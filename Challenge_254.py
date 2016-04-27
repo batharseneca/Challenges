@@ -31,7 +31,6 @@ foobar
 wizard
 /r/dailyprogrammer
 gsrh rh zm vcznkov lu gsv zgyzhs xrksvi
-
 OUTPUT:
 ullyzi
 draziw
