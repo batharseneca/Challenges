@@ -123,12 +123,17 @@ foreach (@darray) {
 
 
 __DATA__
-C  d
 D  d
-D  b
-C  f
+D  c    
+C  c    
 C  c
+G  f
+F  d
+F  f
+D  f
+A  a
+E  b
+E  e
+B  g
+G  g
 B  a
-A  d
-G  e
-E  g
